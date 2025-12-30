@@ -8,6 +8,10 @@ h1 {
   padding: 10px 0;
   text-align: center;
 }
+.title {
+  font-size: 120%;
+}
+
 body {
 background-color: black;
   margin: 0;
@@ -31,7 +35,7 @@ img {
   padding: 15px 20px;
   display: flex;
   gap: 10px;
-  background-color: #15e4ef;
+  background-color: red;
   margin: 0;
   justify-content: center;
 }
