@@ -9,7 +9,7 @@ header {
     flex-direction: column-reverse;
   }
   .header_right, .top_img {
-    width: 100%;
+    width: 100%!important;
   }
 }
 .header_right {
