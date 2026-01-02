@@ -33,12 +33,14 @@ background-color: black;
   margin: 0;
 }
 .page {
-  padding: 20px;
   width: 80%;
   margin: 0 auto;
   background-color: white;
   min-height: 100vh;
   padding-top: 200px;
+}
+.wall {
+  padding: 20px;
 }
 img {
   height: 100%;
