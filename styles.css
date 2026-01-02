@@ -68,8 +68,11 @@ img {
   padding: 5px 0;
   background-color: white;
 }
+.header_links li.current {
+  background-color: gray;
+}
 .header_links li:hover {
-  background-color: grey;
+  background-color: gray;
 }
 .header_links li a {
   text-decoration: none;
