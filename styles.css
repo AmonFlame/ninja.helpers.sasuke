@@ -87,4 +87,7 @@ table {
 iframe {
   max-width: 100%;
 }
-
+.part {
+  margin: 30px auto;
+  
+}
