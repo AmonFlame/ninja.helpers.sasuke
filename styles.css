@@ -16,6 +16,9 @@ header {
   .page {
     padding-top: 0!important;
   }
+  .page_links {
+    flex-direction: column;
+  }
 }
 .header_right {
   width: 80%;
@@ -83,6 +86,7 @@ img {
   border: 2px black solid;
   padding: 5px;
 }
+
 table {
   border: black 2px solid;
   font-size: 20px;
