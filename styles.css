@@ -24,6 +24,9 @@ header {
     width:100%!important;
     margin: 0!important;
   }
+  .part dd {
+    text-wrap: balance;
+  }
 }
 .header_right {
   width: 80%;
