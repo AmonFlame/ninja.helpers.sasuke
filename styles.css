@@ -19,6 +19,9 @@ header {
   .page_links {
     flex-wrap: wrap;
   }
+  .part {
+    scroll-margin-top: 50px;
+  }
 }
 .header_right {
   width: 80%;
