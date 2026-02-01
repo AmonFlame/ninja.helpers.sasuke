@@ -97,3 +97,9 @@ iframe {
 .part h2 {
   text-decoration: underline;
 }
+.part dt {
+  font-size: 120%;
+}
+.part dd {
+  margin-left: 0;
+}
