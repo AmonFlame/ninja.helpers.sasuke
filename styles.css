@@ -28,7 +28,7 @@ header {
     text-wrap: balance;
   }
   .part ul {
-    margin-left: 5px!important; 
+    padding-left: 5px!important; 
   }
 }
 .header_right {
