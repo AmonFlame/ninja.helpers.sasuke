@@ -46,6 +46,8 @@ background-color: black;
 }
 .wall {
   padding: 20px;
+  dislay:flex;
+  align-items: center;
 }
 img {
   height: 100%;
@@ -90,4 +92,8 @@ iframe {
 .part {
   margin: 30px auto;
   
+  
+}
+.part h2 {
+  text-decoration: underline;
 }
