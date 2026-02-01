@@ -27,6 +27,9 @@ header {
   .part dd {
     text-wrap: balance;
   }
+  .part ul {
+    margin-left: 5px!important; 
+  }
 }
 .header_right {
   width: 80%;
