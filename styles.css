@@ -100,7 +100,12 @@ iframe {
 }
 .part dt {
   font-size: 120%;
+  margin-bottom: 5px;
 }
 .part dd {
   margin-left: 0;
+  margin-bottom: 10px;
+}
+.part li {
+  list-style: circle;
 }
