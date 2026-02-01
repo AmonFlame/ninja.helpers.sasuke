@@ -46,7 +46,7 @@ background-color: black;
 }
 .wall {
   padding: 20px;
-  dislay:flex;
+  display:flex;
   align-items: center;
 }
 img {
