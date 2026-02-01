@@ -93,7 +93,7 @@ iframe {
 .part {
   margin: 30px auto;
   width: 80%;
-  
+  scroll-margin-top: 250px;
 }
 .part h2 {
   text-decoration: underline;
