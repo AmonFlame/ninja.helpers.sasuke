@@ -109,6 +109,7 @@ iframe {
 .part dt {
   font-size: 120%;
   margin-bottom: 5px;
+  font-weight: bold;
 }
 .part dd {
   margin-left: 0;
