@@ -17,7 +17,7 @@ header {
     padding-top: 0!important;
   }
   .page_links {
-    flex-direction: column;
+    flex-wrap: wrap;
   }
 }
 .header_right {
