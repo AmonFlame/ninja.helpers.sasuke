@@ -7,6 +7,10 @@ header {
   z-index: 10;
 }
 @media only screen and (max-width: 600px) {
+  html, body {
+  height: auto!important;
+  overflow: visible!important;
+}
   header {
     flex-direction: column-reverse;
     position: relative;
@@ -14,8 +18,14 @@ header {
   .header_right, .top_img {
     width: 100%!important;
   }
+  .page {
+    background: white!important;
+  }
   .page_links {
     flex-wrap: wrap;
+  }
+  .wall {
+    padding: 0 20px;
   }
   .part {
     width:100%!important;
