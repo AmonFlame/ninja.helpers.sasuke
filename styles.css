@@ -37,6 +37,12 @@ header {
   .part ul {
     padding-left: 15px!important; 
   }
+  .pconly {
+  display: none!important;
+}
+.sponly {
+  display: block!important;
+}
 }
 .header_right {
   width: 80%;
@@ -142,4 +148,10 @@ iframe {
 }
 .part li {
   list-style: circle;
+}
+.pconly {
+  display: block;
+}
+.sponly {
+  display: none;
 }
