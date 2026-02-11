@@ -14,9 +14,6 @@ header {
   .header_right, .top_img {
     width: 100%!important;
   }
-  .page {
-    padding-top: 0!important;
-  }
   .page_links {
     flex-wrap: wrap;
   }
@@ -57,7 +54,6 @@ background-color: black;
   margin: 0 auto;
   background-color: white;
   min-height: 100vh;
-  padding-top: 200px;
   font-size: 1.125rem;
 }
 .wall {
