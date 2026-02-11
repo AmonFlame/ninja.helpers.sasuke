@@ -55,9 +55,9 @@ background-color: black;
   grid-template-rows: auto 1fr;
 }
 .page {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
-  background-color: white;
+  background: linear-gradient(to right, black 0, black 10%, white 10%, white 90%, black 90%);
   min-height: 100vh;
   font-size: 1.125rem;
   overflow-y: auto;
