@@ -111,7 +111,8 @@ iframe {
   scroll-margin-top: 250px;
 }
 .part h2 {
-  text-decoration: underline;
+  border-left: red 2px solid;
+  padding-left: 10px;
 }
 .part dt {
   font-size: 120%;
