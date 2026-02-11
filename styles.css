@@ -91,6 +91,7 @@ img {
   text-decoration: none;
   padding: 5px 0;
   background-color: white;
+  border: 2px black solid;
 }
 .header_links li.current {
   background-color: gray;
@@ -101,7 +102,6 @@ img {
 .header_links li a {
   text-decoration: none;
   color: black;
-  border: 2px black solid;
   padding: 5px;
 }
 
